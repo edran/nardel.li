@@ -20,6 +20,9 @@ AUTHOR_FEED_RSS = None
 STATIC_PATHS = ['images', 'extra/CNAME']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}}
 
+# Theme setup
+THEME = "theme"
+
 # Blogroll / Social widget
 LINKS = ()
 SOCIAL = ()
